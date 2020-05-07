@@ -9,6 +9,8 @@ requirements:
 1. Desktop: **Element A** should be positioned on top of **Element B**
 1. Mobile: **Element B** should be positioned on top of **Element A**
 
+![dynamic order change html elements](https://github.com/ramigs/media-hosting/raw/master/2020-05-08-dynamic-order-change-html.png)
+
 This repo contains the code I used to create a tutorial with two different
 approaches to solve these requirements.
 
