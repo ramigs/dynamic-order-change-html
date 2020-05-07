@@ -1,0 +1,15 @@
+{
+  "name": "dynamic-reorder",
+  "version": "1.0.0",
+  "description": "Two ways to dynamically change the order of HTML elements",
+  "author": "ramigs <ramigs@gmail.com>",
+  "scripts": {
+    "dev": "serve src"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^11.3.0"
+  },
+  "dependencies": {}
+}

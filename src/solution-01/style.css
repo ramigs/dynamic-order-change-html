@@ -1,0 +1,34 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+.parent {
+  border: solid 2px black;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.element {
+  margin: 1em;
+  padding-top: 2em;
+  min-height: 20vh;
+}
+
+#element-a {
+  --a-color-1: #eb4b4b;
+  --a-color-2: #ffb0b0;
+  background: linear-gradient( to bottom right, var(--a-color-1) 0%, var(--a-color-2) 100%);
+}
+
+#element-b {
+  --b-color-1: #2926d8;
+  --b-color-2: #8599f0;
+  background: linear-gradient( to bottom right, var(--b-color-1) 0%, var(--b-color-2) 100%);
+}
+
+@media (max-width: 767px) {
+  .parent {
+    flex-direction: column-reverse;
+  }
+}
