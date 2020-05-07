@@ -14,7 +14,7 @@ requirements:
 This repo contains the code I used to create a tutorial with two different
 approaches to solve these requirements.
 
-Check it out the here: [https://ramigs.dev/blog/dynamic-order-change](https://ramigs.dev/posts/dynamic-order-change)
+Check it out the here: [https://ramigs.dev/blog/dynamic-order-change-html](https://ramigs.dev/blog/dynamic-order-change-html/)
 
 ## Build Setup
 
