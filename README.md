@@ -12,7 +12,7 @@ requirements:
 This repo contains the code I used to create a tutorial with two different
 approaches to solve these requirements.
 
-Check it out the here: [https://ramigs.dev/blog/dynamic-order-change-html](https://ramigs.dev/posts/dynamic-order-change-html)
+Check it out the here: [https://ramigs.dev/blog/dynamic-order-change](https://ramigs.dev/posts/dynamic-order-change)
 
 ## Build Setup
 
