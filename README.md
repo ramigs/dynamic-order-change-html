@@ -16,7 +16,7 @@ approaches to solve these requirements.
 
 Check it out the here: [https://ramigs.dev/blog/dynamic-order-change-html](https://ramigs.dev/blog/dynamic-order-change-html/)
 
-## Build Setup
+## How to Run
 
 ```bash
 # install dependencies
